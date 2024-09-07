@@ -1,3 +1,3 @@
 # ML-homework
 
-Progress:1- 6
+Progress: 1 - 6
